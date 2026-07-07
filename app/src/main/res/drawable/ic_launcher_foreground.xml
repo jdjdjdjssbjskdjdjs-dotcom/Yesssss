@@ -1,0 +1,62 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Glow / Background Stadium Spotlight (Subtle Circle) -->
+    <path
+        android:fillColor="#1AFFFFFF"
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0" />
+
+    <!-- Golden World Cup Trophy -->
+    <!-- Base (Muted Bronze/Gold) -->
+    <path
+        android:fillColor="#E5A910"
+        android:pathData="M38,82 L70,82 L66,90 L42,90 Z" />
+    <path
+        android:fillColor="#FBC02D"
+        android:pathData="M42,76 L66,76 L68,82 L40,82 Z" />
+
+    <!-- Stem / Pillars rising up holding the world -->
+    <path
+        android:fillColor="#FBC02D"
+        android:pathData="M48,55 L60,55 L57,76 L51,76 Z" />
+    
+    <!-- Left Wing/Handle holding the ball -->
+    <path
+        android:fillColor="#E5A910"
+        android:pathData="M44,40 C38,48 45,55 49,60 C46,55 43,48 45,42 Z" />
+
+    <!-- Right Wing/Handle holding the ball -->
+    <path
+        android:fillColor="#E5A910"
+        android:pathData="M64,40 C70,48 63,55 59,60 C62,55 65,48 63,42 Z" />
+
+    <!-- Golden Ball (World / Football) on Top -->
+    <path
+        android:fillColor="#FFF59D"
+        android:pathData="M54,38m-16,0a16,16 0,1 1,32 0a16,16 0,1 1,-32 0" />
+
+    <!-- Football Pentagons / Continents details on the ball (White & Gold) -->
+    <path
+        android:fillColor="#FBC02D"
+        android:pathData="M54,26 L58,31 L54,35 L50,31 Z" />
+    <path
+        android:fillColor="#E5A910"
+        android:pathData="M43,33 L47,35 L44,40 L40,37 Z" />
+    <path
+        android:fillColor="#E5A910"
+        android:pathData="M65,33 L68,37 L64,40 L61,35 Z" />
+    <path
+        android:fillColor="#D49A0B"
+        android:pathData="M48,44 L54,41 L60,44 L57,48 L51,48 Z" />
+
+    <!-- White star details for championship sparkle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,30 L30,33 L33,30 L30,27 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M78,24 L80,27 L83,24 L80,21 Z" />
+</vector>

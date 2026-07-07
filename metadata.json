@@ -1,0 +1,6 @@
+{
+  "name": "شبیه‌ساز جام‌جهانی ۲۰۲۶",
+  "description": "شبیه‌ساز هوشمند و دقیق مسابقات جام جهانی ۲۰۲۶ با جدول گروه‌ها، مراحل حذفی و آمار دقیق بازی‌ها و بازیکنان",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
